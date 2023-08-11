@@ -7,7 +7,7 @@ To analyze the problem, the main factors which need to be analyzed are manufactu
 Analyze production volumes and costs to determine optimal production levels that maximize revenue while minimizing manufacturing costs.
 
 Dataset 1: https://data.world/usaid/supply-chain-shipment-pricing
-
+& 
 Dataset 2: https://statso.io/supply-chain-analysis-case-study/
 
 The dataset was gathered from a startup in the fashion and beauty industries. Based on the supply chain, the dataset is about various product types like haircare, skincare & cosmetics.
